@@ -1,0 +1,20 @@
+{
+  "name": "voting_app",
+  "version": "1.0.0",
+  "description": "Voting Dinamic Web application that allow user to submit new polls and vote.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderHook/votingAPP.git"
+  },
+  "author": "Pedro A Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderHook/votingAPP/issues"
+  },
+  "homepage": "https://github.com/coderHook/votingAPP#readme"
+}
